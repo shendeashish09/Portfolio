@@ -1,6 +1,7 @@
 # responsive-portfolio
 
 I have build a Personal Portfolio or website that looks great on mobile, tablet and desktop (so in other words, I have made it responsive!).
+
 I have done this with HTML and CSS, and with the small bit of JavaScript. 
 
 I have done this to learn/improve my CSS and HTML skills.
